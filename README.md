@@ -4,7 +4,7 @@
 # About
 -This is a simple frontend of Chat gpt
 
--Pure Javascript made using react.js
+-Pure JavaScript, HTML and CSS
 
 # Snap
 ![CHATgpt](https://user-images.githubusercontent.com/103346687/235724324-eb233dda-630f-409f-b978-210c85bfd714.JPG)
